@@ -1,0 +1,10 @@
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\bin\Debug\Praticas.exe.config
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\bin\Debug\Praticas.exe
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\bin\Debug\Praticas.pdb
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.csproj.AssemblyReference.cache
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.Form1.resources
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.Properties.Resources.resources
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.csproj.GenerateResource.cache
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.csproj.CoreCompileInputs.cache
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.exe
+C:\Users\lkzq\Desktop\Principal\c#\Praticas\Praticas\obj\Debug\Praticas.pdb
