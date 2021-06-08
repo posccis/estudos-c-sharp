@@ -1,0 +1,10 @@
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.JokenPo.resources
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.cache
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\lkzq\Desktop\Principal\c#\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
