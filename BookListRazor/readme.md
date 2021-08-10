@@ -18,13 +18,12 @@
 
 <h4>Pagina para inserir os livros</h3>
 
-<img src="/BookListRazor/Pagina_inserir.png">
+<img src="/BookListRazor/Pagina_Inserir.png">
 
 <hr>
 
 <h4>Pagina para editar os livros</h3>
-
-<img src="/BookListRazor/Pagina_edit.png">
+<img src="/BookListRazor/Pagina_Edit.png">
 
 
 
