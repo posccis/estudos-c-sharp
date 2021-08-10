@@ -1,0 +1,16 @@
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\SegundoApp.exe
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\SegundoApp.deps.json
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\SegundoApp.runtimeconfig.json
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\SegundoApp.runtimeconfig.dev.json
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\SegundoApp.dll
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\ref\SegundoApp.dll
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\bin\Debug\net5.0\SegundoApp.pdb
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.csproj.AssemblyReference.cache
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.AssemblyInfoInputs.cache
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.AssemblyInfo.cs
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.csproj.CoreCompileInputs.cache
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.dll
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\ref\SegundoApp.dll
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.pdb
+C:\Users\lkzq\Desktop\Principal\c#\dotnet\SegundoApp\obj\Debug\net5.0\SegundoApp.genruntimeconfig.cache
