@@ -1,0 +1,58 @@
+﻿@page
+@model BookListRazor.Pages.BookList.CreateModel
+
+
+<br />
+<h2 style="color: ##4F556D">Creat New Book</h2>
+<br />
+
+<div class="border container row" style="padding:30px;">
+    <form method="post">
+        <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+        <div class="form-group row">
+
+            <div class="col-4">
+                <label asp-for="Book.Titulo"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for=" Book.Titulo" class="form-control" />
+            </div>
+            <span asp-validation-for="Book.Titulo" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+
+            <div class="col-4">
+                <label asp-for="Book.Autor"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for=" Book.Autor" class="form-control" />
+            </div>
+            <span asp-validation-for="Book.Autor" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+
+            <div class="col-4">
+                <label asp-for="Book.ISBN"></label>
+            </div>
+            <div class="col-8">
+                <input asp-for=" Book.ISBN" class="form-control" />
+            </div>
+            <span asp-validation-for="Book.ISBN" class="text-danger"></span>
+        </div>
+        <div class="form-group row">
+
+            <div class="col-4 offset-4">
+                <input type="submit" value="Inserir" class="btn btn-info form-control"/>
+            </div>
+            <div class="col-4">
+                <a asp-page="Index" class="btn btn-info form-control">Voltar</a>
+            </div>
+
+        </div>
+    </form>
+
+</div>
+
+@section Scripts{ 
+    <partial name="_ValidationScriptsPartial"/>
+}
